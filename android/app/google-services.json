@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043138523560",
+    "project_id": "bwa-airplane-9c8d2",
+    "storage_bucket": "bwa-airplane-9c8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043138523560:android:b5ffd2a8cda0fa8dbcad9d",
+        "android_client_info": {
+          "package_name": "net.fortinity.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043138523560-ug7r8onelanu8thhprgl23us4ql2jlv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-dVliAIiPMwwBwjDwn2xkR_xq02KzaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043138523560-ug7r8onelanu8thhprgl23us4ql2jlv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
